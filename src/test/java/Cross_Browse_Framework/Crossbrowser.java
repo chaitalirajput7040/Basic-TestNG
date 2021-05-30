@@ -53,7 +53,7 @@ public class Crossbrowser {
 	@Test
 	public void test()
 	{
-		Chromebrowser("chrome");
+		Chromebrowser("firefox");
 	}
 
 	
